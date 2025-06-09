@@ -8,7 +8,7 @@
 
 ## 🎯 **Vision**
 
-**"Devenir le Swisscom du médical en Suisse"**
+**"Devenir le SwisseIA du médical en Suisse"**
 
 MédIA Santé est une plateforme SaaS révolutionnaire qui combine logiciel médical IA et équipement gratuit pour transformer la pratique médicale en Suisse.
 
